@@ -1,0 +1,3 @@
+/home/jefry/Escritorio/Tarea5/OpenglPerspective/build/CMakeFiles/rebuild_cache.dir
+/home/jefry/Escritorio/Tarea5/OpenglPerspective/build/CMakeFiles/edit_cache.dir
+/home/jefry/Escritorio/Tarea5/OpenglPerspective/build/CMakeFiles/hello.dir
